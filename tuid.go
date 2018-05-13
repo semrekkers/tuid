@@ -1,3 +1,4 @@
+// Package tuid implements the Time-based Unique Identifier.
 package tuid
 
 import (
